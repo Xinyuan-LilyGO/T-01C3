@@ -1,6 +1,6 @@
 <h1 align = "center">🌟LILYGO T-01C3🌟</h1>
 
-## **English | [中文](./README_CN.MD)**
+## **[English](./README.MD) | [中文](./README_CN.MD)**
 
 <h3 align = "left">Quick start:</h3>
 
@@ -17,7 +17,7 @@
 
 ## Pinout
 
-![](../T-01C3/image/T-01C3pin.jpg)
+![](image/T-01C3pin.jpg)
 
 
 

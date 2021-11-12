@@ -17,7 +17,7 @@
 
 ## Pinout
 
-![](image/T-01C3pin.jpg)
+![](../image/T-01C3pin.jpg)
 
 
 

@@ -10,5 +10,5 @@ Fill in your ssid and password.
 Check the IP address of the serial port.
 Enter the IP address printed by the serial port on the web page.
 
-[](../../image/serial_port.png)
-[](../../image/WIFI_STA_MODE.jpg)
+[](../image/serial_port.png)
+[](../image/WIFI_STA_MODE.jpg)

@@ -5,8 +5,8 @@
 #include <WebSocketsServer.h>
 #include <ESPmDNS.h>
 
-//#define WIFI_AP_MODE  true  //Uncomment select WIFI_AP mode
-#define WIFI_STA_MODE true   //Uncomment select WIFI_STA mode
+#define WIFI_AP_MODE  true  //Uncomment select WIFI_AP mode
+//#define WIFI_STA_MODE true   //Uncomment select WIFI_STA mode
 
 #define GREEN_LED  3
 #define RELAY_PIN 9

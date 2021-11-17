@@ -6,7 +6,9 @@
 ![](../../image/Relay_BLE_uart1.png)
 
 3. Send 'H' to ON the relay
+
 ![](../../image/Relay_BLE_uart2.png)
 
 4. Send 'L' to OFF the relay
+ 
 ![](../../image/Relay_BLE_uart3.png)

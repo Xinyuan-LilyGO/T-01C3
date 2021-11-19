@@ -21,7 +21,6 @@
 ![](image/T-01C3pin.jpg)
 
 
+## Sleep power consumption 5.33uA
 
-
-
-
+![](image/deepsleep.png)
